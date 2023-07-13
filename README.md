@@ -8,6 +8,7 @@ En el main de este repositorio se encuentran:
 **El notebook auxiliar 'shakespeare_tarea_2_nuevo_personaje.ipynb', el cual se utilizó para cambiar un personaje.
 
 **El pdf 't2_g10.pdf', con el informe final a evaluar para esta tarea.
+**El pdf 't2_g10-1' contiene el mismo informe con una tabla que nos dimos cuenta que se había borrado
 
 
 
